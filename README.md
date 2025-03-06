@@ -2,7 +2,7 @@
 
 - 🌱 Sistemas de Informação 2/8
 - 😄 Pronouns: Ela/Dela
--->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaissteles&show_icons=true&theme=great-gatsby)
 
