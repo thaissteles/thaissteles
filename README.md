@@ -1,4 +1,4 @@
-## Oi! Eu sou Thais👋
+## Oi! Eu me chamo Thais👋
 
 - 🌱 Sistemas de Informação 2/8
 - 😄 Pronouns: Ela/Dela
